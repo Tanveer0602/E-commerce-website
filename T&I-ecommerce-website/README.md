@@ -10,7 +10,7 @@ T&I is a fully responsive ecommerce website, maximum compatiblities in all mobil
 
 ## Demo
 
-![T&I Desktop Demo](./https://beamish-sopapillas-7ace20.netlify.app)
+![T&I Desktop Demo](https://beamish-sopapillas-7ace20.netlify.app/)
 ![T&I Mobile Demo](./https://beamish-sopapillas-7ace20.netlify.app)
 
 ## Prerequisites
